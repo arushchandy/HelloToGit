@@ -12,7 +12,6 @@ namespace GitSampleConsole
             Console.WriteLine("Hello World Milan");
             Console.WriteLine("Hello World Nikhil");
             Console.WriteLine("Hello World Kavitha");
-            Console.WriteLine("Hello ");
         
 
             Console.ReadLine();
@@ -48,15 +47,6 @@ namespace GitSampleConsole
                 Thread.Sleep(100);
             }
         }
-       private static void PrintFrom40To50()
-        {
-            var i = 40;
-            while (i < 50)
-            {
-                Console.WriteLine(i);
-                i += 1;
-                Thread.Sleep(100);
-            }
-        } 
+      
     }
 }
