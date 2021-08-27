@@ -25,5 +25,15 @@ namespace GitSampleConsole
                 Thread.Sleep(100);
             }
         }
+        private static void PrintFrom30To40()
+        {
+            var i = 30;
+            while (i < 40)
+            {
+                Console.WriteLine(i);
+                i += 1;
+                Thread.Sleep(100);
+            }
+        }
     }
 }
