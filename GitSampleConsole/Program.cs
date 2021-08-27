@@ -21,7 +21,7 @@ namespace GitSampleConsole
         private static void PrintFrom10To20()
         {
             var i = 10;
-            while (i < 20
+            while (i < 20)
             {
                 Console.WriteLine(i);
                 i += 1;
