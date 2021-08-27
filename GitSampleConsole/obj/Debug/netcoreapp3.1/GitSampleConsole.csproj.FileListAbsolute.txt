@@ -1,0 +1,14 @@
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\bin\Debug\netcoreapp3.1\GitSampleConsole.exe
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\bin\Debug\netcoreapp3.1\GitSampleConsole.deps.json
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\bin\Debug\netcoreapp3.1\GitSampleConsole.runtimeconfig.json
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\bin\Debug\netcoreapp3.1\GitSampleConsole.runtimeconfig.dev.json
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\bin\Debug\netcoreapp3.1\GitSampleConsole.dll
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\bin\Debug\netcoreapp3.1\GitSampleConsole.pdb
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.csproj.AssemblyReference.cache
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.AssemblyInfoInputs.cache
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.AssemblyInfo.cs
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.csproj.CoreCompileInputs.cache
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.dll
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.pdb
+C:\Redblack\Data\Sessions\Code\HelloToGit\GitSampleConsole\obj\Debug\netcoreapp3.1\GitSampleConsole.genruntimeconfig.cache
