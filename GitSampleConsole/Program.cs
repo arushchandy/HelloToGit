@@ -7,7 +7,7 @@ namespace GitSampleConsole
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World Anjana!");
 
             PrintFrom1To10();
 
