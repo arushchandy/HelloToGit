@@ -7,14 +7,16 @@ namespace GitSampleConsole
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          Console.WriteLine("Hello World Anjana!");
+
             Console.WriteLine("Hello World Milan");
             Console.WriteLine("Hello World Nikhil");
+            Console.WriteLine("Hello World Kavitha");
+
         
 
             Console.ReadLine();
         }
-
         private static void PrintFrom10To20()
         {
             var i = 10;
@@ -24,7 +26,18 @@ namespace GitSampleConsole
                 i += 1;
                 Thread.Sleep(100);
             }
+
         }
+       private static void PrintFrom20To30()
+         {
+            var i = 20;
+            while (i < 30)
+            {
+              Console.WriteLine(i);
+                i += 1;
+                Thread.Sleep(100);
+            }
+         }
         private static void PrintFrom30To40()
         {
             var i = 30;
