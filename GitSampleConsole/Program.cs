@@ -10,7 +10,7 @@ namespace GitSampleConsole
             Console.WriteLine("Hello World Anjana!");
             Console.WriteLine("Hello World Milan");
 
-            PrintFrom1To10();
+            PrintFrom1To10(num); //error code creation
 
             Console.ReadLine();
         }
