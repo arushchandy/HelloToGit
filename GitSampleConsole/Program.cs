@@ -8,6 +8,7 @@ namespace GitSampleConsole
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World Anjana!");
+            Console.WriteLine("Hello World Milan");
 
             PrintFrom1To10();
 
